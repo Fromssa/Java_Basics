@@ -1,2 +1,2 @@
 # Java_Basics
-It is simle personal projec to learn and master Java and gitHub
+It is a simple personal project to learn and master Java and gitHub
